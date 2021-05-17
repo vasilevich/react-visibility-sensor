@@ -1,5 +1,5 @@
 {
-  "name": "react-visibility-sensor-v2",
+  "name": "@yosefsolutions/react-visibility-sensor-v2",
   "version": "1.0.0",
   "description": "Sensor component for React that notifies you when it goes in or out of the window viewport forked by joshwnj.",
   "main": "dist/visibility-sensor.js",
